@@ -1,2 +1,2 @@
-# wheels
-Native JavaScript wheels
+# js-wheels
+> Native JavaScript wheels
