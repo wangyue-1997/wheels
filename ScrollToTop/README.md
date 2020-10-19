@@ -4,8 +4,6 @@
 
 原生 JavaScript 实现的回到顶部库，适应 PC ，兼容到 IE7+。
 
-效果演示：[https://github.com/wangyue-1997/wheels/ScrollToTop/index.html](https://github.com/wangyue-1997/wheels/ScrollToTop/index.html)
-
 ## 兼容性
 
 其中 PC 端支持 IE7+ 
