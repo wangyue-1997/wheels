@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    </meta>
+    <title>回到顶部</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <span id="toTop" class="toTop"></span>
+    <script src="js/scrollToTop.js"></script>
+    <script>
+      var toElement = document.getElementById('toTop')
+      var ToTop = new ScrollToTop(toElement,{
+        //滚动条向下滑动多少时，出现回到顶部按钮
+        showWhen:200,
+        //回到顶部的速度
+        speed:200
+      })
+    </script>
+</body>
+
+</html>
